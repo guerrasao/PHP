@@ -1,9 +1,6 @@
 # Projetos Desenvolvidos em PHP
 
-## Descrição
-
-Projetos pessoais, testes e exercícios desenvolvidos em matérias durante o decorrer do curso de Sistemas de Informação - UFSM/FW (2015-2019).
-
+## Disciplina: Linguagem de Programação para WEB (2017)
 
 ## Softwares e Tecnologias Utilizados
 
